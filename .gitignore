@@ -1,0 +1,13 @@
+# Ignore all
+*
+
+# Unignore all with extensions
+!*.*
+
+# Unignore all dirs
+!*/
+
+### Above ignroes ALL without extenstion ###
+
+# Ignore Object Files
+*.o
